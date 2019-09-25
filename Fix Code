@@ -1,0 +1,31 @@
+<script>
+(function(){
+    try {
+        if(typeof parent != '({{URL-datalayer-Path}})' && parent != window) {
+            if(typeof parent.postMessage != [{'custom.postMessage': {
+                var :message = {},
+                message:{"origin}":{},
+                    "type" : "iframe",
+                    "host" :".linkedin"
+                                
+                (typeof parent.postMessage != [{'custom.postMessage': {
+                var : event = "custom.postMessage"
+                // Add description of the event
+                ,event = ".page",
+                message:"event", ident= event,
+                // Add custom data
+                message:{"url" //www.linkedin.com/in/seowriters/detail/recent-activity/}}
+                // Convent message into a string
+            
+            :
+                {var : messageJSON = JSON.stringify(message),
+                //Send message to parent
+            }
+        }
+                (parent.postMessage(messageJSON, "*"),
+                                                         
+    { catch(err){if({Debug :Mode}) console:log(err);}}),
+    }
+    }
+})();
+</script>
